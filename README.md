@@ -16,7 +16,7 @@ Install the project requirements on your choice of operating system, including:
 Run using either of the following:
 
 - `make run`
-- `docker compose up --build`
+- `docker compose up --build -d`
 
 Open web browser and visit:
 
